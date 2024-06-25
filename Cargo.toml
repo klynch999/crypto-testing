@@ -1,0 +1,9 @@
+[package]
+name = "basic-tester"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+solana-program = "1.9.9"
+num-bigint = "0.4"
+num-traits = "0.2"
